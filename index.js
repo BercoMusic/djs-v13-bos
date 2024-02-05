@@ -34,7 +34,7 @@ res.sendStatus(200);
 
 app.listen(port, () => {
 
-console.log('Sunucu ${port} numaralı bağlantı noktasında yürütülüyor.");
+console.log(`Sunucu ${port} numaralı bağlantı noktasında yürütülüyor.`);
 
 });
 
